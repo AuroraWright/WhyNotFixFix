@@ -21,7 +21,7 @@ Video Position: 20303
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Fontin Sans Rg,47,&H00FFFFFF,&H000000FF,&H00192D19,&HA0062210,-1,0,0,0,100,100,0,0,1,3,1,2,110,110,40,0
+Style: Default,Candara,55,&H00FFFFFF,&H000000FF,&H00001500,&HA0062210,-1,0,0,0,100,100,0,0,1,3,1,2,100,100,35,0
 Style: Title1,A-OTF Futo Min A101 Pro Bold,90,&H00636363,&H00726F87,&H00726F87,&H00000000,-1,0,0,0,100,100,0,0,1,0.2,0,3,60,40,30,1
 Style: CellphoneEffortLess,Arial Rounded MT Bold,33,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,7,35,35,35,1
 Style: Sign,BarmeReczny,30,&H28000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
