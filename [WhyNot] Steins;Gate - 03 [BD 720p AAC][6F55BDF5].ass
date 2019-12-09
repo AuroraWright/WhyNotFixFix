@@ -752,7 +752,7 @@ Dialogue: 0,0:14:40.60,0:14:42.97,Default,,0,0,0,,You're more of a bicycle shop 
 Dialogue: 0,0:14:43.60,0:14:47.69,Default,,0,0,0,,Anyways, what are you guys doing on the second floor?
 Dialogue: 0,0:14:47.69,0:14:50.02,Default,,0,0,0,,Future Gadget Laboratory, right?
 Dialogue: 0,0:14:50.02,0:14:51.52,Default,,0,0,0,,Where did you learn that name?
-Dialogue: 0,0:14:53.44,0:14:54.36,Sign2,,0,0,0,,{\be1\pos(480,382)}{\alpha&H60&}Fu{\alpha&H50&}tu{\alpha&H40&}re {\alpha&H30&}Ga{\alpha&H20&}dg{\alpha&H10&}et {\alpha&H00&}Lab
+Dialogue: 0,0:14:53.44,0:14:54.36,Sign2,,0,0,0,,{\be1\pos(392,382)}{\alpha&H80&}Fu{\alpha&H70&}tu{\alpha&H60&}re {\alpha&H50&}Ga{\alpha&H40&}dg{\alpha&H30&}et {\alpha&H20&}Labo{\alpha&H10&}ra{\alpha&H00&}tory
 Dialogue: 0,0:14:54.94,0:14:57.91,Default,,0,0,0,,If you know that much, then fine.
 Dialogue: 0,0:14:57.91,0:15:00.49,Default,,0,0,0,,We're fighting against an organization
 Dialogue: 0,0:15:00.49,0:15:03.04,Default,,0,0,0,,that rules the world from the shadows.

@@ -674,7 +674,7 @@ Dialogue: 0,0:12:56.63,0:12:57.80,Default,,0,0,0,,It's only us.
 Dialogue: 0,0:12:58.42,0:13:01.84,Default,,0,0,0,,Isn't it about time to give up?
 Dialogue: 0,0:13:01.84,0:13:05.26,Default,,0,0,0,,You can't expect too much from software you got out of a 500 yen bargain bin.
 Dialogue: 0,0:13:05.89,0:13:06.72,Default,,0,0,0,,Listen well.
-Dialogue: 0,0:13:06.72,0:13:16.94,SignE,,0,0,0,,{\be1\c&H767973&\3c&H767973&\move(487,115,487,370,0,10198)}Future {\3c&H4A4C46&\c&H656761&}Gadget {\c&H4B4D4A&}Lab
+Dialogue: 0,0:13:06.72,0:13:16.94,SignE,,0,0,0,,{\be1\c&H767973&\3c&H767973&\move(395,115,395,370,0,10198)}Future {\3c&H4A4C46&\c&H656761&}Gadget {\c&H4B4D4A&}Laboratory
 Dialogue: 0,0:13:06.72,0:13:16.94,SignH,,0,0,0,,{\be1\fscx91.25\fscy93.75\c&H767A70&\move(561,709,561,814,0,4317)}CRT\N TV
 Dialogue: 0,0:13:06.72,0:13:16.94,SignH,,0,0,0,,{\be1\fscx97.5\fscy96.25\move(786,704,786,808,0,4109)}Work-\Nshop
 Dialogue: 1,0:13:07.26,0:13:09.89,Default,,0,0,0,,To get to our lab go down Chuo Street,
