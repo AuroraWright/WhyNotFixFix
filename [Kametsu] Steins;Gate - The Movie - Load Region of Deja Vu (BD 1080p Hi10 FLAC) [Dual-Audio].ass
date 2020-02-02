@@ -150,7 +150,7 @@ Dialogue: 1,1:29:00.37,1:29:10.36,ED,,0,0,0,,{\fad(100,200)}I know the importanc
 Dialogue: 1,1:29:10.36,1:29:16.69,ED,,0,0,0,,{\fad(100,200)}No matter the distance between us
 Dialogue: 1,1:29:16.69,1:29:30.59,ED,,0,0,0,,{\fad(100,200)}The Observer of the sky - the sky that proves we have a future
 Dialogue: 0,0:05:43.19,0:05:47.86,Lab,,0,0,0,,{\blur1.1\an8\fs30\c&H61615A&\3c&H767973&\fnFJ-KanteiryuEdomoji-Lite\b0\move(676,558,676,720)}Braun {\c&H52534C&}Tube {\c&H42433E&}Studio
-Dialogue: 0,0:05:43.19,0:05:49.45,Lab,,0,0,0,,{\be1\c&H767973&\3c&H767973&\move(487,123,487,336,28,6242)}Future {\3c&H4A4C46&\c&H656761&}Gadget {\c&H4B4D4A&}Lab
+Dialogue: 0,0:05:43.19,0:05:49.45,Lab,,0,0,0,,{\be1\c&H767973&\3c&H767973&\move(393.7,123,393.7,336,28,6242)}Future {\3c&H4A4C46&\c&H656761&}Gadget {\c&H4B4D4A&}Laboratory
 Dialogue: 0,0:25:08.15,0:25:11.65,No Cell Phones,,0,0,0,,{\blur1\pos(740,263.8)}No Cell Phones
 Dialogue: 2,0:36:28.20,0:36:29.79,TV,,0,0,0,gradient @bc1 1,{\alpha&FFF&\blur.5\clip(419,487,860,488)\pos(640,550)\1c&HEEECE6&}TAKING {\alpha&000&}MY FORK
 Dialogue: 2,0:36:28.20,0:36:29.79,TV,,0,0,0,gradient @bc1 2,{\alpha&FFF&\blur.5\clip(419,488,860,489)\pos(640,550)\1c&HEEECE6&}TAKING {\alpha&000&}MY FORK
@@ -1137,7 +1137,7 @@ Dialogue: 0,0:56:33.57,0:56:33.66,Phone,,0,0,0,,{\fs24\blur0.75\c&H5E5B5D&\frx30
 Dialogue: 0,0:56:33.66,0:56:33.74,Phone,,0,0,0,,{\fs24\blur0.75\c&H5E5B5D&\frx304\fry0\pos(602.695,311.479)\frz15.83}Okabe
 Dialogue: 0,0:56:33.74,0:56:33.82,Phone,,0,0,0,,{\fs24\blur0.75\c&H5E5B5D&\frx302\fry0\frz15.82\pos(602.838,313.622)}Okabe
 Dialogue: 0,0:56:33.82,0:56:33.91,Phone,,0,0,0,,{\fs26\blur0.75\fax-.1\c&H5E5B5D&\frx290\frz22.13\pos(589.552,257.336)}Okabe
-Dialogue: 0,1:01:07.05,1:01:08.76,Lab,,0,0,0,,{\be1\an8\fs40\bord0\c&HA6A9A2&\3c&H767973&\fnCenturyOldStyle-Light\b1\move(661.4,355,661.4,355,30,-12)}Future {\3c&H4A4C46&\c&H898780&}Gadget {\c&H4B4D4A&}Lab
+Dialogue: 0,1:01:07.05,1:01:08.76,Lab,,0,0,0,,{\be1\an8\fs40\bord0\c&Hadb2b3&\3c&H767973&\fnCenturyOldStyle-Light\b1\move(661.4,355,661.4,355,30,-12)}Future {\3c&H4A4C46&\c&H898e8d&}Gadget {\c&H525655&}Labora{\c&H4b4c4c&}t{\c&H2e3332&}o{\c&H111313&}ry
 Dialogue: 0,1:02:41.48,1:02:42.86,Whiteboard,,0,0,0,,{\fax0.4\blur1\frx346\fry348\frz349\c&H61646A&\b1\pos(590.667,344.666)}Brain
 Dialogue: 0,1:02:42.86,1:02:42.98,Whiteboard,,0,0,0,,{\fax0.4\blur1\frx346\fry348\frz349\c&H28292E&\b1\pos(590.667,344.666)\clip(m 643 304 l 627 325 554 319 539 354 650 364 661 307)}Brain
 Dialogue: 0,1:02:42.98,1:02:43.73,Whiteboard,,0,0,0,,{\fax0.4\blur1\frx346\fry348\frz349\c&H62666D&\b1\pos(590.667,344.666)}Brain
@@ -1415,7 +1415,7 @@ Dialogue: 0,0:16:12.86,0:16:16.96,Default,,0,0,0,,Faris' Special End of the Cent
 Dialogue: 0,0:16:16.96,0:16:21.42,Default,,0,0,0,,This guy hasn't even sent me a single email since last summer!
 Dialogue: 0,0:16:21.42,0:16:23.93,Default,,0,0,0,,Even after he did "that thing!"
 Dialogue: 0,0:16:23.93,0:16:25.17,Default,,0,0,0,,Telling me "I love you."
-Dialogue: 0,0:16:25.17,0:16:28.00,Default,,0,0,0,,Then blaming it on another word line—
+Dialogue: 0,0:16:25.17,0:16:28.00,Default,,0,0,0,,Then blaming it on another worldline—
 Dialogue: 0,0:16:29.73,0:16:32.49,Default,,0,0,0,,Give it a break. Come here!
 Dialogue: 0,0:16:33.54,0:16:35.89,Default,,0,0,0,,Let go of me!
 Dialogue: 0,0:16:38.14,0:16:39.81,Default,,0,0,0,,That was dangerous—
@@ -1674,7 +1674,7 @@ Dialogue: 0,0:33:29.09,0:33:30.64,Default,,0,0,0,,Tutturu~
 Dialogue: 0,0:33:30.64,0:33:32.36,Default,,0,0,0,,It's lunch time!
 Dialogue: 0,0:33:32.95,0:33:36.65,Default,,0,0,0,,Mayushii, did you bring my lunch?
 Dialogue: 0,0:33:36.65,0:33:37.51,Default,,0,0,0,,Yep.
-Dialogue: 0,0:33:37.51,0:33:42.71,Default,,0,0,0,,Today's lunch is the new Juicy\N Karaage Number 1 boxed lunch!
+Dialogue: 0,0:33:37.51,0:33:42.71,Default,,0,0,0,,Today's lunch is the new Juicy\N Chicken Number 1 boxed lunch!
 Dialogue: 0,0:33:42.71,0:33:45.49,Default,,0,0,0,,Didn't we have that yesterday?
 Dialogue: 0,0:33:45.49,0:33:46.80,Default,,0,0,0,,Another invention?
 Dialogue: 0,0:33:46.80,0:33:47.54,Default,,0,0,0,,Yup.
@@ -2117,7 +2117,7 @@ Dialogue: 0,1:04:59.09,1:05:01.95,Default,,0,0,0,,If you've decided to accept a 
 Dialogue: 0,1:05:01.95,1:05:06.12,Default,,0,0,0,,where Okabe Rintaro doesn't exist, there's no point in me remaining.
 Dialogue: 0,1:05:07.97,1:05:10.65,Default,,0,0,0,,I'll ask you one last time.
 Dialogue: 0,1:05:10.65,1:05:12.09,Default,,0,0,0,,Aren't you going to change your mind?
-Dialogue: 0,1:05:13.40,1:05:19.39,Default,,0,0,0,,There's no record of Okabe Rintaro on this worldline from this point now on.
+Dialogue: 0,1:05:13.40,1:05:19.39,Default,,0,0,0,,There's no record of Okabe Rintaro on this worldline from this point on.
 Dialogue: 0,1:05:19.97,1:05:24.69,Default,,0,0,0,,In other words, once I go back, you'll never see him again.
 Dialogue: 0,1:05:24.99,1:05:26.69,Default,,0,0,0,,Is that still what you want?
 Dialogue: 0,1:05:28.90,1:05:34.20,Default,,0,0,0,,Okabe told me not to change the past, no matter what happens.
